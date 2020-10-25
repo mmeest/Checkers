@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+}
+div{
+    margin: auto;
+}
+table{
+    background-color: rgb(122, 139, 155);
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 4vh;
+    border: 3px solid black;
+    cursor: pointer;
+    text-shadow: 2px 2px 8px #4b4c55;
+    box-shadow: 7px 7px 11px #4b4c55;
+}
+td{
+    width: 7vh;
+    height: 7vh;
+    border: 2px solid rgb(49, 44, 44);
+    border-radius: 1vh;
+}
+.black{
+    background-color: rgb(63, 129, 129);
+}
+.white{
+    background-color: white;
+}
